@@ -26,13 +26,15 @@ migrate_working_dir/
 # Flutter/Dart/Pub related
 **/doc/api/
 **/ios/Flutter/.last_build_id
-.dart_tool/
+#.dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
 .pub-cache/
 .pub/
-/build/
+#/build/
+build/app/intermediates/merged_native_libs/
+*.so
 
 # Symbolication related
 app.*.symbols
@@ -51,7 +53,7 @@ __pycache__/
 *$py.class
 *.so
 .Python
-build/
+backend/build/
 develop-eggs/
 dist/
 downloads/

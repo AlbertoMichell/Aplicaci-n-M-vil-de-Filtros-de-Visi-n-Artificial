@@ -1,0 +1,8 @@
+org.opencv-java-0 D:\Appmovil\android\opencv\java\res
+org.opencv-main-1 D:\Appmovil\android\opencv\src\main\res
+org.opencv-release-2 D:\Appmovil\android\opencv\src\release\res
+org.opencv-pngs-3 D:\Appmovil\build\opencv\generated\res\pngs\release
+org.opencv-resValues-4 D:\Appmovil\build\opencv\generated\res\resValues\release
+org.opencv-mergeReleaseResources-5 D:\Appmovil\build\opencv\intermediates\incremental\release\mergeReleaseResources\merged.dir
+org.opencv-mergeReleaseResources-6 D:\Appmovil\build\opencv\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+org.opencv-release-7 D:\Appmovil\build\opencv\intermediates\merged_res\release\mergeReleaseResources

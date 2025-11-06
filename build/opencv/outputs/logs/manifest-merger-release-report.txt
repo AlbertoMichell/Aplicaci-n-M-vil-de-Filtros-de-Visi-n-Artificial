@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Appmovil\build\opencv\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest12737710266822386061.xml:2:13-83
+INJECTED from D:\Appmovil\build\opencv\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest12737710266822386061.xml:2:13-83
+	package
+		INJECTED from D:\Appmovil\build\opencv\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest12737710266822386061.xml
+	xmlns:android
+		ADDED from D:\Appmovil\build\opencv\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest12737710266822386061.xml:2:23-81
+uses-sdk
+INJECTED from D:\Appmovil\build\opencv\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest12737710266822386061.xml reason: use-sdk injection requested
+INJECTED from D:\Appmovil\build\opencv\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest12737710266822386061.xml
+INJECTED from D:\Appmovil\build\opencv\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest12737710266822386061.xml
+	android:targetSdkVersion
+		INJECTED from D:\Appmovil\build\opencv\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest12737710266822386061.xml
+	android:minSdkVersion
+		INJECTED from D:\Appmovil\build\opencv\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest12737710266822386061.xml

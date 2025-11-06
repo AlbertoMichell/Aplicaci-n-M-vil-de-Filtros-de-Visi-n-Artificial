@@ -1,0 +1,4 @@
+#Wed Nov 05 19:37:25 CST 2025
+base.0=D\:\\Appmovil\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

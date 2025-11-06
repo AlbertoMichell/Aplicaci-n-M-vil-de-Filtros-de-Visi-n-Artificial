@@ -1,0 +1,2 @@
+D:/Appmovil/build/.cxx/release/e283x376/x86_64/CMakeFiles/edit_cache.dir
+D:/Appmovil/build/.cxx/release/e283x376/x86_64/CMakeFiles/rebuild_cache.dir
