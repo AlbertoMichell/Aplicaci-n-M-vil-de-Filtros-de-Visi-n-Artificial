@@ -78,10 +78,10 @@ Edita el archivo `lib/services/image_processing_service.dart` y cambia la URL ba
 static const String baseUrl = 'http://TU_IP:8000';
 ```
 
-Reemplaza `TU_IP` con:
-- `localhost` si usas un emulador Android
-- `10.0.2.2` si usas el emulador de Android Studio
-- La IP de tu computadora si usas un dispositivo físico
+Reemplar `TU_IP` con:
+- `localhost` para un emulador Android
+- `10.0.2.2` para el emulador de Android Studio
+- La IP de la computadora si se usa un dispositivo físico
 
 ## Cómo compilar y ejecutar el proyecto
 
@@ -137,10 +137,10 @@ Este repositorio incluye un APK ya compilado en:
 build/app/outputs/flutter-apk/app-release.apk
 ```
 
-Para instalarlo en tu Android:
+Para instalar en dispositivo Android:
 
 1. Descarga el archivo APK
-2. Habilita "Instalar aplicaciones de fuentes desconocidas" en tu dispositivo
+2. Habilita "Instalar aplicaciones de fuentes desconocidas" en el dispositivo
 3. Abre el archivo APK
 4. Sigue las instrucciones de instalación
 
